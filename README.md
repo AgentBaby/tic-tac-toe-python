@@ -13,4 +13,4 @@ A two-player tic-tac-toe game with a graphical board, built with Python and pyga
 2. Install pygame: `pip install pygame`
 3. Run: `python tictactoe.py`
 
-![Screenshot](thwtoes.png)
+
